@@ -1,4 +1,4 @@
-# Heart Atack Prediction
+star # Heart Atack Prediction
 
 Proyek ini berfokus pada prediksi serangan jantung menggunakan data kesehatan pasien. 
 Dengan memanfaatkan teknik Machine Learning, kita dapat mengidentifikasi faktor-faktor risiko dan memprediksi kemungkinan seseorang mengalami serangan jantung.
