@@ -1,4 +1,4 @@
-star # atack this dirección (EC:AA:25:51:56:E7 )Heart Atack Prediction
+star # atack this dirección (EC:AA:25:51:56:E7 )Heart Atack Prediction atack amelia ema Adán ema y Gonzalo Rodríguez González y ulices González.
 
 Proyek ini berfokus pada prediksi serangan jantung menggunakan data kesehatan pasien. 
 Dengan memanfaatkan teknik Machine Learning, kita dapat mengidentifikasi faktor-faktor risiko dan memprediksi kemungkinan seseorang mengalami serangan jantung.
